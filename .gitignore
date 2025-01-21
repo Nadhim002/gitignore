@@ -1,0 +1,10 @@
+.
+
+# Ignore all python files
+*.py
+
+# Ignore text file 
+a.txt 
+
+# Ignore directory 
+/skippakleFolder
